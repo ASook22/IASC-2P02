@@ -10,7 +10,7 @@ Explore my interactive study guide [here](2P02_InteractiveStudyGuide_Team_6.html
 
 ## Interactive Geneology 
 
-Explore my interacgive Geneology here.
+Explore my interacgive Geneology [here](2P02_InteractiveGeneology.html).
 
 # Speculative Fiction 
 
